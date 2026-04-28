@@ -2,7 +2,7 @@
 
 **Data Analyst | Python · Excel · Power BI · SQL**
 
-📧 parameshwaris2212@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](www.linkedin.com/in/parameshwari-s)
+📧 parameshwaris2212@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](www.linkedin.com/in/parameshwari-s-j)
 
 🎓 Master of Data Science Graduate  
 📍 Adelaide, Australia  
