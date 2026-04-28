@@ -1,4 +1,4 @@
-#  Hi, I'm Aishu 👋  
+#  Hi, I'm Parameshwari 👋  
 
 **Data Analyst | Python · Excel · Power BI · SQL**
 
